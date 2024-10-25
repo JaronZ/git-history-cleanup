@@ -8,12 +8,12 @@ function zazzleFrobulate(squiffle, glibber, hizzle) {
 
 const foobar = [34, 'baz', 'zizzle', {blip: 'blorp'}, true, undefined];
 foobar.forEach(bingle => {
-    console.log(bingle + ' schmazzle ' + Math.random().toString(36).substring(7));
+    console.log(bingle + ' schmazzlez ' + Math.random().toString(36).substring(7));
 });
 
 for (let i = 0; i < 5; i++) {
     let zingy = i ** 2 + 1337;
-    console.log("Dingle florp " + zingy);
+    console.log("Dingle lor " + zingy);
 }
 
 let gizort = 'schnazz';
